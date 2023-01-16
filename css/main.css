@@ -16,3 +16,38 @@ body {
 }
 
 .hidden { display: none;}
+
+.container {
+    width: 100%;
+    border: solid 1px gray;
+    background-color: grey;
+}
+
+/* header */
+/* 
+header {
+    position: sticky;
+    height: 110px;
+    display: inline-block;
+}
+
+#logo {
+    height: 100px;
+    padding: 10px;
+    border-right: solid 1px black;
+}
+#title {
+
+} */
+
+/* main */
+.icons { text-align: center;}
+
+.icons h2 {font-size: 2em; margin: 10px 0;}
+
+.icons div {
+    width: 45%;
+    display: inline-block;
+}
+
+.icons div img { width: 100%;}
